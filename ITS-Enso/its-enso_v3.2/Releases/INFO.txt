@@ -1,0 +1,4 @@
+Reworked the patch method
+Added a livearea icon
+Fixed some 3.60 PSN errors
+Reworked the un/installer, will no longer reset the tai config.txt
