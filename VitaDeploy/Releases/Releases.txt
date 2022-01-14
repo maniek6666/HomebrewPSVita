@@ -1,0 +1,8 @@
+Initial release
+Pick your version
+VitaDeploy.vpk - default homebrew package to install via VitaShell
+VitaDeploy-mshell.vpk - comes with molecularShell instead of VitaShell
+VitaDeploy-FHE.zip - package for FinalHE to install via Content Manager
+Notes
+Vita hacking from scratch with VitaDeploy
+"Format target storage"/"Clean the update partition" does not work on 3.73
